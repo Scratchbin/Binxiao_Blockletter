@@ -24,3 +24,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. See
 
 该字体软件以 SIL 开源字体协议 1.1 版本授权。详见 [http://scripts.sil.org/OFL].
 
+Made with [FontForge](https://github.com/fontforge/fontforge).
+
+本字体以 [FontForge](https://github.com/fontforge/fontforge) 制作。
