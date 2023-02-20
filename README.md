@@ -16,3 +16,7 @@ Déjà vu of *Girls' Last Tour*…
 
 有种《少女终末旅行》的既视感……
 
+In plan this project has compability on Latin, Greek and Cyrillic characters.
+
+计划中该系列字体涵盖拉丁、希腊、西里尔字符。
+
