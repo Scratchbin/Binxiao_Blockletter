@@ -20,3 +20,4 @@ In plan this project has compability on Latin, Greek and Cyrillic characters.
 
 计划中该系列字体涵盖拉丁、希腊、西里尔字符。
 
+This Font Software is licensed under the SIL Open Font License, Version 1.1. See [http://scripts.sil.org/OFL] for more information.
