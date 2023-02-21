@@ -1,12 +1,14 @@
 # Binxiao Blockletter
 
-A font project that mixes square and humanism styles.
+A font project that mixes square and humanism styles. (This is not a blackletter font.)
+
+一款混合方形和人文主义的字体。（不是哥特体。）
 
 ## Introduction / 介绍
 
 Created on 13-JAN-2023 / 于 2023.01.13 创建
 
-This version of introduction on 21-FEB-2023
+This version of introduction on 21-FEB-2023 / 此介绍版本最终修改于 2023.02.21
 
 I wanted to make an atmosphere similar to *medieval* (?) European Bible books but remaining feeling of atheism, modern aesthetics and futuristic like telling endless histories, things in current times influenced by them and future. I mixed blackletter, humanist and square in my concept, then this project is created.
 
@@ -20,9 +22,9 @@ In plan this project has compability on Latin, Greek and Cyrillic characters.
 
 计划中该系列字体涵盖拉丁、希腊、西里尔字符。
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. See [http://scripts.sil.org/OFL] for more information.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. See http://scripts.sil.org/OFL for more information.
 
-该字体软件以 SIL 开源字体协议 1.1 版本授权。详见 [http://scripts.sil.org/OFL].
+该字体软件以 SIL 开源字体协议 1.1 版本授权。详见 http://scripts.sil.org/OFL.
 
 Made with [FontForge](https://github.com/fontforge/fontforge).
 
