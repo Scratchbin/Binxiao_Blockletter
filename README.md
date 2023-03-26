@@ -8,9 +8,9 @@ A font project that mixes square and humanism styles. (This is not a blackletter
 
 Created on 13-JAN-2023 / 于 2023.01.13 创建
 
-This version of introduction on 21-FEB-2023 / 此介绍版本最终修改于 2023.02.21
+This version of introduction on 26-MAR-2023 / 此介绍版本最终修改于 2023.03.26
 
-![Sample v2023.02.18](https://github.com/Scratchbin/Binxiao_Blockletter/blob/main/%E5%AD%97%E6%A0%B7%20v20230218.png)
+![Sample v2023.03.26](https://github.com/Scratchbin/Binxiao_Blockletter/blob/main/v20230326_Sample.png)
 
 I wanted to make an atmosphere similar to *medieval* (?) European Bible books but remaining feeling of atheism, modern aesthetics and futuristic like telling endless histories, things in current times influenced by them and future. I mixed blackletter, humanist and square in my concept, then this project is created.
 
