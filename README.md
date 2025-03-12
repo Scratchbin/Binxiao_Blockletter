@@ -1,6 +1,6 @@
 # Binxiao Blockletter
 
-A font project that mixes square and humanism styles. (This is not a blackletter font.)
+A font project that mixes square and humanist styles. (This is not a blackletter font.)
 
 一款混合方形和人文主义的字体。（不是哥特体。）
 
